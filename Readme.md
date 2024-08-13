@@ -1,0 +1,1 @@
+A simple counter app that allows users to increment or decrement a number within a range of 0 to 150, with a progress bar that updates accordingly
